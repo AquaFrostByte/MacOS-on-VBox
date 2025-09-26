@@ -8,7 +8,7 @@ All links are for **Arch Linux**, but you can also do this on any other Linux di
 
 ## 📥 Stuff you need to download
 
-* [VirtualBox](virtualbox-host-dkms)
+* [VirtualBox]([virtualbox-host-dkms](https://archlinux.org/packages/extra/x86_64/virtualbox-host-dkms/))
 * MacOS ISO (tested with version **11**)
 
 ---
